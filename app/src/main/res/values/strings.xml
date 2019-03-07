@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="new_game">New Game</string>
+    <string name="save_game">Save</string>
+    <string name="load_game">Load</string>
+    <string name="invalid_move">Invalid Move!</string>
+    <string name="solved_puzzle">You\'ve Solved It!</string>
+    <string name="move_count_label">Moves:</string>
+    <string name="time_label">Time:</string>
+    <string name="save_missing">No Saved Puzzle Found!</string>
+    <string name="success_msg">Congratulations! You\'ve earned a high score!</string>
+    <string name="fail_msg">Sorry! Better luck next time!</string>
+    <string name="submit">Submit</string>
+    <string name="enter_name">Name</string>
+    <string name="R1">1)  </string>
+    <string name="R2">2)  </string>
+    <string name="R3">3)  </string>
+    <string name="R4">4)  </string>
+    <string name="R5">5)  </string>
+    <string name="NameHeader">Name</string>
+    <string name="MovesHeader">Moves</string>
+    <string name="back">Back</string>
+</resources>
